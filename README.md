@@ -5,5 +5,5 @@ test
 
 ##Feature
  
-This feature is written to learn branching
+This feature is written to learn branching and pull request
 
